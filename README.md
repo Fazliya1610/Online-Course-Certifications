@@ -1,6 +1,6 @@
 # Online-Course-Certifications
 ## Certificates earned in various online platforms:
---Coursera
+---Coursera
 --Infosys Springboard
 --edX
 --Great Learning
